@@ -1,0 +1,2 @@
+# Signate_FDUA_03
+SIGNATEで開催されたFDUA主催の第３回金融データ活用チャレンジのRepository
